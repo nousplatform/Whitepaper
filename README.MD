@@ -1,4 +1,4 @@
-# White Paper Nousplatform
+# Whitepaper Nousplatform
 
 Whitepaper describes the concept of decentralized blockchain-managed funds.
 
