@@ -237,6 +237,6 @@ We are confident, that the Nousprotocol will be the first steppingstone on the w
 
 We are also convinced that private or governmental organizations would utilize Nousprotocol and platform to create pension funds that will be transparent, simple and understandable to the public
 
-##Credits:
+## Credits:
 
 [1] BlackRock,Inc https://en.wikipedia.org/wiki/BlackRock [2] Hedge Funds https://en.wikipedia.org/wiki/List_of_hedge_funds [3] Investment Banks and Companies https://en.wikipedia.org/wiki/List_of_private_equity_firms [4] Developer of KYC based on blockchain https://www.civic.com/
