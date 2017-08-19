@@ -1,4 +1,4 @@
-#白皮书
+# 白皮书
 为利用区块链创造和管理加密资产而打造的Nousplatform及NousProtocol
 
 作者: Anatol Ostrowski 和 Vyacheslav Pustovoy
