@@ -6,7 +6,7 @@ By: Anatol Ostrowski and Vyacheslav Pustovoy
 
 https://nousplatform.com
 
-Edited and revised: 28.07.2017
+Edited and revised: 27.08.2017
 
 ## 1. Introduction
 
@@ -229,7 +229,11 @@ The Use of the Tokens:
 Use of tokens to pay for the goods and services, an example is described in paragraph 3.2, Example 1.
 Nous Tokens are available for purchase during Pre-ICO, during ICO, or later on multiple exchanges. ERC20 wallet can be used to receive and store nous tokens.
 
-## 8. Conclusion
+## 8. Legal Framework
+One of the most important aspects is the legal framework. Nousplatform, is a service provider for investment funds and investors, thus required to have an appropriate license, as well as monitor the compliance of the funds created on the platform. Since Nousplatform is under UK jurisdiction, we have already started the process of licensing the platform and obtaining an FCA license to provide brokerage services. In the future, we are looking to collaborate with the companies compliant with the SEC rules and regulations to provide services to US citizens. The funds created on Nousplatform will be controlled by the terms and conditions incorporated in a smart contract depending on the jurisdiction. Nousplatform monitors compliance of the Funds activities, and acts as a guarantor to verify the license of the fund to ensure operation within the legal framework.
+
+
+## 9. Conclusion
 
 It is clear that the blockchain will become a part of our life, every day we find more things mentioned in the media, that various companies have successfully implemented their pilot projects and are ready to launch them. In the near future blockchain technology will unlock the opportunity and allow anyone to access and benefit from those segments of the economy and industry, that until now where available only to the large institutional players and big corporations.
 
