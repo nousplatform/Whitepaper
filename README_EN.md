@@ -281,7 +281,7 @@ A Backer acquired $1000 in NOUS tokens. Additionally he/she will be awarded $150
 
 ## 10 Bonus Structure
 
-TBD
+will be announced soon
 
 ## 11 Our Team Members
 
